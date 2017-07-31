@@ -3,7 +3,7 @@
 #include <MySQL_Connection.h>
 #include <MySQL_Cursor.h>
 #include <LiquidCrystal_I2C.h>
-#include "advancedFunctions.h" // biblioteka zawierajaca watchdog-a
+#include "advancedFunctions.h" // biblioteka zawierajaca watchdog-a ...2....
 
 
 String lcdLine[2];
