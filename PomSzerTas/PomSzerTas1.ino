@@ -2,7 +2,7 @@
 #include <Ethernet2.h> // biblioteka umozliwiajaca polaczenie sieciowe 
 #include <MySQL_Connection.h>
 #include <MySQL_Cursor.h>
-#include <LiquidCrystal_I2C.h> // biblioteka umozliwiajaca kozystanie z wyswietlacza LCD
+#include <LiquidCrystal_I2C.h> // biblioteka umozliwiajaca korzystanie z wyswietlacza LCD
 #include "advancedFunctions.h" // biblioteka zawierajaca watchdog-a
 
 
